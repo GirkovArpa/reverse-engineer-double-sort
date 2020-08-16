@@ -1,0 +1,24 @@
+{
+  "name": "reverse-engineer-double-sort",
+  "type": "module",
+  "version": "0.0.1",
+  "description": "Reverse-engineer the double sorting of a list or lists.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "reverse",
+    "engineer",
+    "sort",
+    "double",
+    "list",
+    "lists",
+    "array"
+  ],
+  "author": "GirkovArpa",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.2.0"
+  }
+}
